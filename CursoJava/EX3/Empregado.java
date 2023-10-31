@@ -1,4 +1,4 @@
-package EX3;
+package CursoJava.EX3;
 public class Empregado {
 
     public String Name;
